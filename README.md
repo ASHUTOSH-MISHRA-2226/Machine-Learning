@@ -1,7 +1,7 @@
 # Machine-Learning Models
 
 
-Welcome to my Machine Learning Models Portfolio ! Here, I present a collection of cutting-edge models I have developed, showcasing my expertise in the exciting field of machine learning. Each model in this repository represents my dedication to harnessing the power of artificial intelligence to solve complex problems and drive innovation.
+Welcome to my Machine Learning Models Portfolio! Here, I present a collection of cutting-edge models I have developed, showcasing my expertise in the exciting field of machine learning. Each model in this repository represents my dedication to harnessing the power of artificial intelligence to solve complex problems and drive innovation.
 
 Within this repository, you will find a diverse range of machine learning models that cover various domains and applications. From natural language processing and computer vision to predictive analytics and recommendation systems, my portfolio reflects my versatility in leveraging data-driven algorithms to extract meaningful insights and make accurate predictions.
 
